@@ -1,8 +1,8 @@
-Título: 
+Título:
 
 Aprender a aprender
 
-Subtítulo: 
+Subtítulo:
 
 Las técnicas de aprendizaje más eficaces y avanzadas que puedes aplicar en tu vida diaria
 
@@ -10,7 +10,7 @@ Más información
 
 ---
 
-Bloque de descripción: 
+Bloque de descripción:
 
 El principal problema de la educación
 
