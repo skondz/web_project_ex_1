@@ -215,3 +215,65 @@ recordarte cómo configurar los estilos de los elementos*/
   z-index: 1;
   color: white;
 }
+.footer {
+  background-color: #1f1f1f;
+  min-height: 350px;
+  display: flex;
+  position: relative;
+}
+.footer__columns {
+  width: 90%;
+  margin: 60px auto 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer__column-content-copyright {
+  flex-basis: 711px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.logo_place_footer {
+  width: 183px;
+  height: 35px;
+}
+.footer__author {
+  margin: 18px auto 18px 0;
+  line-height: 25px;
+  font-size: 20px;
+  color: white;
+}
+.footer__column-content-about {
+  display: flex;
+  flex-direction: column;
+}
+.footer__column-content-social {
+  display: flex;
+  flex-direction: column;
+}
+.footer__column-heading {
+  margin: 0 0 20px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+.footer__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+.footer__social-icons {
+  width: 16px;
+  height: 18px;
+  margin: 0 10px 0 0;
+}
+.footer__column-link {
+  margin: 0;
+  line-height: 30px;
+  font-size: 18px;
+  color: white;
+}
