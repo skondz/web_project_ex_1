@@ -143,6 +143,42 @@ recordarte cómo configurar los estilos de los elementos*/
   line-height: 1.2;
   font-size: 18px;
 }
+.feynman {
+  height: 790px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.feynman__image {
+  width: 867px;
+  height: 637px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.feynman__title {
+  width: 770px;
+  margin: 0 auto 70px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  text-align: center;
+  z-index: 1;
+}
+.feynman__subtitle {
+  margin: 0 auto;
+  line: height 51px;
+  font-size: 36px;
+  z-index: 1;
+}
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  line: height 51px;
+  font-size: 36px;
+  color: #2f80ed;
+}
 
 /* incluidos aquellos con modificadores clave-valor */
 .table__cell_theme_dark {
